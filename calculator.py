@@ -8,5 +8,7 @@ def subtract(a, b):
 def divide_free(a, b):
     return a/b
 
+def sqaure (a):
+   return a*a
 
 print(add(1,2))
